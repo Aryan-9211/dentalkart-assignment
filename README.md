@@ -1,34 +1,27 @@
-# Devmeet
+# DentalKart Assignment
 
-https://peaceful-macaron-9710ef.netlify.app/
+https://aryan9211-dentalkart.netlify.app/
 
-# Setup
+---
 
-````
+# Setup steps
+
+### Clone the project
+
+```bash
+git clone git@github.com:Aryan-9211/dentalkart-assignment.git
+```
 
 ### Install dependencies
 
 ```bash
 npm install
-````
-
-### Install frontend dependencies
-
-```bash
-cd frontend
-npm install
 ```
 
-### Run the Project
+### Run the React proejct
 
 ```bash
-npm run dev
-```
-
-### Build for production
-
-```bash
-npm run build
+npm start
 ```
 
 ---
@@ -41,5 +34,4 @@ npm run build
 <br>
 <img src='./readmeImg/img3.png'>
 <br>
-<img src='./readmeImg/img4.png'>
-<br>
+
