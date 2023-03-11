@@ -24,6 +24,12 @@ npm install
 npm start
 ```
 
+### Hardcoded email and password
+```bash
+Email:- aryan@gmail.com
+Password:- 123456
+```
+
 ---
 
 ## Screenshort of the Project
