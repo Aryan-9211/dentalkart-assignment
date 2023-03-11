@@ -1,0 +1,83 @@
+.dashboard-div{
+    height: 6vh;
+    display: flex;
+    justify-content: space-between;
+    margin:  140px 15% 0 15%;
+    font-size: 1.2rem;
+}
+
+.heading{
+    width: 123px;
+    height: 42px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 150%;
+    color: #121212;
+}
+
+.import-export{
+    display: flex;
+}
+
+.dashboard-btn{
+padding: 10px 20px;
+gap: 30px;
+width: 164px;
+height: 44px;
+background: #FFFFFF;
+border: 1px solid rgba(125, 131, 152, 0.3);
+box-shadow: 0px 3px 6px rgba(18, 18, 18, 0.03);
+border-radius: 6px;
+margin-right: 20px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 150%;
+}
+
+.dashboard-btn:hover{
+    cursor: pointer;
+}
+
+.dashboard-para{
+width: 290px;
+height: 24px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+color: #7D8398;
+margin-left: 15%;
+}
+
+table {
+ border-collapse: collapse;
+ width: 70vw;
+ margin-left:auto; 
+ margin-right:auto;
+ margin-top: 30px;
+ font-family: 'Inter';
+ font-style: normal;
+ border: 1px solid #EEEAF5;
+}
+  
+td {
+ border: 1px solid white;
+ border-bottom: 1px solid #EEEAF5;
+ padding: 25px 30px;
+}
+
+tbody > tr{
+    height: 92px;
+    border-left: 1px solid #121212;
+    border-right: 1px solid #121212;;
+}
+  
+
+
+  
